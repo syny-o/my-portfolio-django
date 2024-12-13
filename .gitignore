@@ -1,0 +1,10 @@
+*.pyc
+*/*.pyc
+*/*/*.pyc
+
+.env
+
+db.sqlite3
+
+my_env/
+media/
