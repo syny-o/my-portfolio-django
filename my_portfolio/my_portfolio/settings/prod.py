@@ -11,7 +11,7 @@ ADMINS = [
 ]
 
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['ondrejsynek.eu', 'www.ondrejsynek.eu']
 
 
 DATABASES = {
